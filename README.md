@@ -7,7 +7,7 @@ This is my first Dockerized web application built using **Python Flask** — run
 ---
 
 ## 🛠️ Tech Stack
-- 🐍 Python 3.9
+- 🐍 Python 3.9-alpine
 - 🌐 Flask (Micro web framework)
 - 🐳 Docker (Containerization)
 - 🐧 Linux (Ubuntu Terminal)
